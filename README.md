@@ -1,5 +1,5 @@
 ## Hi there 👋
-I do not like most things however I like most things in a sense I cannot describe.
+I don't like most things however, I like most things in a sense I cannot describe.
 <!--
 **AsuraXP/AsuraXP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
